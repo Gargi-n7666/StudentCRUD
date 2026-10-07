@@ -6,5 +6,10 @@ public class Student {
 	{
 		System.out.println("Gargiii");
 	}
+	
+	public void addName1()
+	{
+		System.out.println("Shruti");
+	}
 
 }
